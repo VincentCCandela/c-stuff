@@ -29,5 +29,4 @@ int main (void) {
         printf("oops, x is not divisible by 3! \n");
 
     }
-
 }
