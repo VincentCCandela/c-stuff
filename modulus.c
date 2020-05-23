@@ -13,7 +13,7 @@ int main(){
     printf("input an integer divisor: ");
     scanf("%d",&b);
 
-    c = a % b;
+    c = a % b; 
 
     if (c != 0){
         if(c<0){
